@@ -1,6 +1,7 @@
 # Lab-1-Web-mapping
 Here is the first GEOB472 lab -- Web mapping
 
+## Crime rate in the City of Vancouver
 <img width="939" alt="crime" src="https://user-images.githubusercontent.com/46465672/52376772-d05ed100-2a17-11e9-8840-17aec5fdbbd8.png">
 
 ## Reflective analysis
